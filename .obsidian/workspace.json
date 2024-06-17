@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/blog/Hosting.md",
+                "file": "linux/Nix/1. What is Nix.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/blog/Hosting.md",
+                "file": "linux/Nix/1. What is Nix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/blog/Hosting.md",
+                "file": "linux/Nix/1. What is Nix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/blog/Hosting.md"
+                "file": "linux/Nix/1. What is Nix.md"
               }
             }
           }
@@ -161,19 +161,19 @@
   },
   "active": "87759893c694f845",
   "lastOpenFiles": [
+    "linux/Nix/0. Nix.md",
+    "linux/Arch/Arch Linux.md",
+    "dev/blog/Svelte+Markdown.md",
+    "dev/blog/Hosting.md",
+    "2024-06-17.md",
+    "Hello.md",
     "ADHD",
     "productivity",
     "linux/Nix/1. What is Nix.md",
-    "linux/Nix/0. Nix.md",
-    "linux/Arch/Arch Linux.md",
     "README.md",
-    "dev/blog/Hosting.md",
     "Untitled.canvas",
-    "dev/blog/Svelte+Markdown.md",
-    "2024-06-17.md",
     "dev/blog/Untitled",
     "dev/blog",
-    "Hello.md",
     "_templates/Blog Post.md",
     "_templates",
     "dev",
