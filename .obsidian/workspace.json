@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "linux/Arch/Arch Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Arch/Arch Linux.md",
+                "file": "Hello.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,10 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0504404f6f126eff",
+  "active": "c8b88485a204d526",
   "lastOpenFiles": [
-    "dev/blog/Svelte+Markdown.md",
     "Hello.md",
+    "_attachments/archlinux-logo-light-1200dpi.7ccd81fd52dc.png",
+    "archlinux-logo-light-1200dpi.7ccd81fd52dc.png",
+    "_attachments",
+    "dev/blog/Svelte+Markdown.md",
     "linux/Arch/Arch Linux.md",
     "linux/Nix/1. What is Nix.md",
     "linux/Nix/0. Nix.md",
@@ -180,7 +182,6 @@
     "cs",
     "linux/Nix",
     "Linux/Nix.md",
-    "linux/Arch",
-    "linux"
+    "linux/Arch"
   ]
 }
