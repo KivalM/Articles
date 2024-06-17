@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Nix/1. What is Nix.md",
+                "file": "Hello.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Nix/1. What is Nix.md",
+                "file": "Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Nix/1. What is Nix.md",
+                "file": "Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Nix/1. What is Nix.md"
+                "file": "Hello.md"
               }
             }
           }
@@ -159,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87759893c694f845",
+  "active": "0504404f6f126eff",
   "lastOpenFiles": [
+    "linux/Nix/1. What is Nix.md",
     "linux/Nix/0. Nix.md",
     "linux/Arch/Arch Linux.md",
     "dev/blog/Svelte+Markdown.md",
@@ -169,7 +170,6 @@
     "Hello.md",
     "ADHD",
     "productivity",
-    "linux/Nix/1. What is Nix.md",
     "README.md",
     "Untitled.canvas",
     "dev/blog/Untitled",

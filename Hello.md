@@ -1,5 +1,6 @@
 ---
 title: Hello
-tags:
+tags: Introduction
+date: 2024-06-17
 ---
-I am Kival Mahadew, a programmer and computer scientist who loves stuff.
+I am Kival Mahadew, a programmer and computer scientist.
